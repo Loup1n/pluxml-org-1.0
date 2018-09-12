@@ -47,7 +47,7 @@
 					<li><a href="https://forum.pluxml.ovh" title="Forum">Forum</a></li>
 					<?php $plxShow->pageBlog('<li class="#page_class #page_status" id="#page_id"><a href="#page_url" title="#page_name">#page_name</a></li>'); ?>
 					<li><a href="http://plucss.pluxml.org/" title="PluCSS">PluCSS</a></li>
-					<li><a href="http://visualwizard.pluxml.org/" title="Visual Wizard">Visuel Wizard</a></li>
+					<li><a href="http://visualwizard.pluxml.org/" title="Visual Wizard">Visual Wizard</a></li>
 				</ul>
 			</div>
 		</div>
