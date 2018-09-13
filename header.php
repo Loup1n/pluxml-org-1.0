@@ -36,22 +36,29 @@
 <body id="top" class="page mode-<?php $plxShow->mode(true) ?>">
 
 	<nav class="nav">
-		<div class="container">
-			<div class="responsive-menu">
-				<label for="menu"></label>
-				<input type="checkbox" id="menu">
-				<ul class="menu">
-					<?php $plxShow->staticList($plxShow->getLang('HOME'),'<li class="#static_class #static_status" id="#static_id"><a href="#static_url" title="#static_name">#static_name</a></li>'); ?>
-					<li><a href="https://wiki.pluxml.ovh" title="Wiki PluXml">Documentation</a></li>
-					<li><a href="https://ressources.pluxml.ovh" title="Ressources">Ressources</a></li>
-					<li><a href="https://forum.pluxml.ovh" title="Forum">Forum</a></li>
-					<?php $plxShow->pageBlog('<li class="#page_class #page_status" id="#page_id"><a href="#page_url" title="#page_name">#page_name</a></li>'); ?>
-					<li><a href="http://plucss.pluxml.org/" title="PluCSS">PluCSS</a></li>
-					<li><a href="http://visualwizard.pluxml.org/" title="Visual Wizard">Visual Wizard</a></li>
-				</ul>
+			<div class="container">
+				<div class="grid">
+					<div class="col sml-6 med-2">
+						picto-logo
+					</div>
+					<div class="col med-10">
+						<div class="responsive-menu">
+							<label for="menu"></label>
+							<input id="menu" type="checkbox">
+							<ul class="menu">
+								<!--?php $plxShow--->staticList($plxShow-&gt;getLang('HOME'),'<li class="#static_class #static_status" id="#static_id"><a href="#static_url" title="#static_name">#static_name</a></li>'); ?&gt;
+								<li><a href="https://wiki.pluxml.ovh" title="Wiki PluXml">Documentation</a></li>
+								<li><a href="https://ressources.pluxml.ovh" title="Ressources">Ressources</a></li>
+								<li><a href="https://forum.pluxml.ovh" title="Forum">Forum</a></li>
+								<!--?php $plxShow--->pageBlog('<li class="#page_class #page_status" id="#page_id"><a href="#page_url" title="#page_name">#page_name</a></li>'); ?&gt;
+								<li><a href="http://plucss.pluxml.org/" title="PluCSS">PluCSS</a></li>
+								<li><a href="http://visualwizard.pluxml.org/" title="Visual Wizard">Visual Wizard</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
 			</div>
-		</div>
-	</nav>
+		</nav>
 
 	<header class="header">
 		<div class="container">
