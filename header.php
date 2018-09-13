@@ -38,31 +38,25 @@
 	<nav class="nav">
 			<div class="container">
 				<div class="grid">
-					<div class="col sml-6 med-2">
-						picto-logo
+					<div class="col sml-12 med-3">
+						<ul class="menu">
+							<li class="logo"><a href="https://pluxml.ovh" title="PluXml"><img class="float-left" src="<?php $plxShow->template(); ?>/img/favicon/favicon-32x32.png"><strong>PluXml.org</strong></a></li>
+						</ul>
 					</div>
-					<div class="col med-10">
-						<div class="responsive-menu">
-							<label for="menu"></label>
-							<input id="menu" type="checkbox">
-							<ul class="menu">
-								<?php $plxShow->staticList($plxShow->getLang('HOME'),'<li class="#static_class #static_status" id="#static_id"><a href="#static_url" title="#static_name">#static_name</a></li>'); ?>
-								<li><a href="https://wiki.pluxml.ovh" title="Wiki PluXml">Documentation</a></li>
-								<li><a href="https://ressources.pluxml.ovh" title="Ressources">Ressources</a></li>
-								<li><a href="https://forum.pluxml.ovh" title="Forum">Forum</a></li>
-								<?php $plxShow->pageBlog('<li class="#page_class #page_status" id="#page_id"><a href="#page_url" title="#page_name">#page_name</a></li>'); ?>
-								<li><a href="http://plucss.pluxml.org/" title="PluCSS">PluCSS</a></li>
-								<li><a href="http://visualwizard.pluxml.org/" title="Visual Wizard">Visual Wizard</a></li>
-							</ul>
-						</div>
+					<div class="col sml-12 med-9 lrg-6">
+						<ul class="menu text-center">
+							<li><a href="https://wiki.pluxml.ovh" title="Wiki PluXml">Documentation</a></li>
+							<li><a href="https://ressources.pluxml.ovh" title="Ressources">Ressources</a></li>
+							<li><a href="https://forum.pluxml.ovh" title="Forum">Forum</a></li>
+							<?php $plxShow->pageBlog('<li class="#page_class" id="#page_id"><a href="#page_url" title="#page_name">#page_name</a></li>'); ?>
+						</ul>
+					</div>
+					<div class="col sml-hide med-hide lrg-3 lrg-show">
+						<ul class="menu text-right">
+							<li><a href="http://plucss.pluxml.org/" title="PluCSS">PluCSS</a></li>
+							<li><a href="http://visualwizard.pluxml.org/" title="Visual Wizard">Visual Wizard</a></li>
+						</ul>
 					</div>
 				</div>
 			</div>
 		</nav>
-
-		<header class="header">
-			<div class="container">
-				<h1 class="no-margin heading-small"><?php $plxShow->mainTitle('link'); ?></h1>
-				<h2 class="h5 no-margin"><?php $plxShow->subTitle(); ?></h2>
-			</div>
-		</header>

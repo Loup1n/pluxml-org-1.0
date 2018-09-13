@@ -15,13 +15,28 @@
 /* ----- Menu ----- */
 
 .nav {
-	background-color: #fff;
+	background-color: #333;
 	height: 4rem;
 	text-align: left;
-	margin-top: 1rem;
 }
 .nav ul {
 	line-height: 3rem;
+}
+.menu li:hover.logo {
+	background-color: #333;
+}
+.menu li {
+	padding: 5px 15px;
+}
+.menu li {
+	margin-left: 0px;
+}
+.menu li:hover {
+	background-color: #2b2b2b;
+}
+.menu li a,li a:hover,.nav li a.active {
+	color: #f7f7f7;
+	text-decoration: none;
 }
 @media (max-width: 767px) {
 	.nav {
@@ -46,10 +61,6 @@
 	}
 }
 
-li a.active {
-	color: #e42929;
-}
-
 /* ---------- Header ---------- */
 
 body {
@@ -57,15 +68,8 @@ body {
 	font-size: 1.6rem;
 }
 
-@media (min-width: 64rem) {
-	.container {
-		padding-left: 15rem;
-		padding-right: 15rem;
-	}
-}
-
 .header {
-	background-color: #1a6699;
+	background-color: #262626;
 	color: #fff;
 	padding-bottom: 6rem;
 	padding-top: 6rem;
