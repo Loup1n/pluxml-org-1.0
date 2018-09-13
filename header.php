@@ -39,7 +39,7 @@
 			<div class="container">
 				<div class="grid">
 					<div class="col sml-12 med-3">
-						<ul class="menu">
+						<ul class="menu text-center">
 							<li class="logo"><a href="https://pluxml.ovh" title="PluXml"><img class="float-left" src="<?php $plxShow->template(); ?>/img/favicon/favicon-32x32.png"><strong>PluXml.org</strong></a></li>
 						</ul>
 					</div>
