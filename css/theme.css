@@ -19,6 +19,9 @@
 	height: 4rem;
 	text-align: left;
 }
+.nav img {
+	width: 30px;
+}
 .nav ul {
 	line-height: 3rem;
 }

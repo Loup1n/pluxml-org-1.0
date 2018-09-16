@@ -45,7 +45,7 @@
 					</div>
 					<div class="col sml-12 med-9 lrg-6">
 						<ul class="menu text-center">
-							<li><a href="https://wiki.pluxml.ovh" title="Wiki PluXml">Documentation</a></li>
+							<li><a href="https://wiki.pluxml.ovh" title="Documentation">Documentation</a></li>
 							<li><a href="https://ressources.pluxml.ovh" title="Ressources">Ressources</a></li>
 							<li><a href="https://forum.pluxml.ovh" title="Forum">Forum</a></li>
 							<?php $plxShow->pageBlog('<li class="#page_class" id="#page_id"><a href="#page_url" title="#page_name">#page_name</a></li>'); ?>
