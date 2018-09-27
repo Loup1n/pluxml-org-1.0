@@ -4,12 +4,12 @@
 
 		<header class="header">
 			<div class="grid">
-				<div class="col sml-8">
+				<div class="col sml-6">
 					<h1 class="no-margin heading-small">Blog ou CMS à l'Xml</h1>
 					<h2 class="h5 no-margin">Simple et léger <br>Sans base de données <br>Collaboratif <br>Thèmes <br>Plugins</h2>
 				</div>
-				<div class="col sml-4 text-left">
-					<img class="" src="<?php $plxShow->template(); ?>/img/plx-home-desktop-mobile-2-300px.jpg" alt="PluXml">
+				<div class="col sml-6">
+					<img class="" src="<?php $plxShow->template(); ?>/img/plx-home-desktop-mobile-2-300px.png" alt="PluXml">
 				</div>
 			</div>
 		</header>
