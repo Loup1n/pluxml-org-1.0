@@ -13,7 +13,7 @@
 						<h2 class="h5">Simple et léger <br>Sans base de données <br>Collaboratif <br>Thèmes <br>Plugins</h2>
 					</div>
 					<div class="col sml-12 med-6">
-						<img class="img-border" src="<?php $plxShow->template(); ?>/img/plx-home-laptop-300px.png" alt="PluXml">
+						<img class="img-border-1" src="<?php $plxShow->template(); ?>/img/plx-home-laptop-300px.png" alt="PluXml">
 					</div>
 				</div>
 			</div>
@@ -24,7 +24,7 @@
 				<div class="grid">
 					<div class="grid">
 						<div class="col sml-12 med-6">
-							<img class="img-border" src="<?php $plxShow->template(); ?>/img/plx-home-tablet-smartphone-300px.png" alt="PluXml">
+							<img class="img-border-2" src="<?php $plxShow->template(); ?>/img/plx-home-tablet-smartphone-300px.png" alt="PluXml">
 						</div>
 						<div class="col sml-12 med-6 text-center">
 							texte
