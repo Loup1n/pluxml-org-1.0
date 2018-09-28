@@ -76,7 +76,7 @@ body {
 	color: #fff;
 	padding-bottom: 6rem;
 	padding-top: 6rem;
-	text-align: center;
+	border-bottom: 4px solid #cdcdcd;
 }
 .header a {
 	color: #fff;
@@ -90,6 +90,10 @@ body {
 .main {
 	background-color: #fff;
 	padding-bottom: 6rem;
+}
+
+.img-border {
+	border: 10px solid #4F4F4F;
 }
 
 .section-1 {
