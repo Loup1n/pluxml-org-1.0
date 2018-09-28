@@ -10,7 +10,7 @@
 						<h2 class="h5 no-margin">Simple et léger <br>Sans base de données <br>Collaboratif <br>Thèmes <br>Plugins</h2>
 					</div>
 					<div class="col sml-12 med-6">
-						<img class="" src="<?php $plxShow->template(); ?>/img/plx-home-desktop-mobile-2-300px.png	" alt="PluXml">
+						<img class="" src="<?php $plxShow->template(); ?>/img/plx-home-laptop-300px.png" alt="PluXml">
 					</div>
 				</div>
 			</div>
