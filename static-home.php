@@ -22,8 +22,8 @@
 		<section class="section-1">
 			<div class="container">
 				<div class="grid">
-					<div class="col sml-12 med-6">
-						<img class="img-border-2" src="<?php $plxShow->template(); ?>/img/plx-home-tablet-smartphone-300px.png" alt="PluXml">
+					<div class="col sml-12 med-6 text-center">
+						texte
 					</div>
 					<div class="col sml-12 med-6 text-center">
 						texte
@@ -35,8 +35,8 @@
 		<section class="section-2">
 			<div class="container">
 				<div class="grid">
-					<div class="col sml-12 med-6 text-center">
-						texte
+					<div class="col sml-12 med-6">
+						<img class="img-border-2" src="<?php $plxShow->template(); ?>/img/plx-home-tablet-smartphone-300px.png" alt="PluXml">
 					</div>
 					<div class="col sml-12 med-6 text-center">
 						texte
