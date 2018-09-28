@@ -59,7 +59,7 @@
 							texte
 						</div>
 						<div class="col sml-12 med-6">
-							<img class="img-border" src="<?php $plxShow->template(); ?>/img/plx-home-admin-desktop-mobile-300px.png" alt="PluXml">
+							<img src="<?php $plxShow->template(); ?>/img/plx-home-admin-desktop-mobile-300px.png" alt="PluXml">
 						</div>
 					</div>
 				</div>
