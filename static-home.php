@@ -16,20 +16,47 @@
 			</div>
 		</header>
 
-		<div class="container">
-			<div class="grid">
-				<div class="content col sml-12">
-					<article class="article static" id="static-page-<?php echo $plxShow->staticId(); ?>">
-						<header>
-							<h2>
-								<?php $plxShow->staticTitle(); ?>
-							</h2>
-						</header>
-						<?php $plxShow->staticContent(); ?>
-					</article>
+		<?php $plxShow->staticContent(); ?>
+
+		<section class="section-1">
+			<div class="container">
+				<div class="grid">
+					<div class="content col sml-12">
+
+					</div>
 				</div>
 			</div>
-		</div>
+		</section>
+
+		<section class="section-2">
+			<div class="container">
+				<div class="grid">
+					<div class="content col sml-12">
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section-1">
+			<div class="container">
+				<div class="grid">
+					<div class="content col sml-12">
+						<p>test</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section-2">
+			<div class="container">
+				<div class="grid">
+					<div class="content col sml-12">
+						<p>test</p>
+					</div>
+				</div>
+			</div>
+		</section>
 
 	</main>
 

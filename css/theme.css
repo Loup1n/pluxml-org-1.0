@@ -91,6 +91,19 @@ body {
 	background-color: #fff;
 	padding-bottom: 6rem;
 }
+
+.section-1 {
+	padding: 96px 0px;
+	background-color: #f7f7f7;
+	border-bottom: 1px solid #cdcdcd;
+}
+
+.section-2 {
+	padding: 96px 0px;
+	background-color: #fff;
+	border-bottom: 1px solid #cdcdcd;
+}
+
 .repertory {
 	margin-top: 4rem;
 }
