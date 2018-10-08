@@ -37,7 +37,7 @@
 .menu li:hover {
 	background-color: #2b2b2b;
 }
-.menu li a,li a:hover,.nav li a.active {
+.menu li a, .menu li a:hover,.nav li a.active {
 	color: #f7f7f7;
 	text-decoration: none;
 }
