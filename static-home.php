@@ -131,16 +131,16 @@
 					<div class="col sml-6 med-2">
 						<strong>En savoir plus</strong>
 						<ul class="unstyled-list">
-							<li><a title="Documentation" href="#">Documentation</a></li>
-							<li><a title="Forum" href="#">Forum</a></li>
-							<li><a title="Ressources" href="#">Ressources</a></li>
+							<li><a title="Documentation" href="https://wiki.pluxml.org">Documentation</a></li>
+							<li><a title="Forum" href="https://forum.pluxml.org">Forum</a></li>
+							<li><a title="Ressources" href=https://ressources.pluxml.org#">Ressources</a></li>
 						<ul>
 					</div>
 					<div class="col sml-6 med-3">
 						<strong>Autour de PluXml</strong>
 						<ul class="unstyled-list">
 							<li><a title="PluCSS" href="https://plucss.pluxml.org/">PluCSS</a></li>
-							<li><a title="Pluxopolis" href="http://pluxopolis.net/">Forum</a></li>
+							<li><a title="Pluxopolis" href="http://pluxopolis.net/">Pluxopolis</a></li>
 							<li><a title="Visual Wizard" href="https://visualwizard.pluxml.org/">Visual Wizard</a></li>
 							<ul>
 					</div>
