@@ -116,7 +116,7 @@
 					<div class="col sml-6 med-2">
 						<strong>A propos de PluXml</strong>
 						<ul class="unstyled-list">
-							<li><a title="A propos" href="https://www.pluxml.org/static2/about">A propos</a></li>
+							<li><a title="A propos" href="https://www.pluxml.org/a-propos-de-pluxml">A propos</a></li>
 							<li><a title="Nous soutenir" href="https://www.pluxml.org/static3/nous-soutenir">Nous soutenir</a></li>
 						</ul>
 					</div>
@@ -133,7 +133,7 @@
 						<ul class="unstyled-list">
 							<li><a title="Documentation" href="https://wiki.pluxml.org">Documentation</a></li>
 							<li><a title="Forum" href="https://forum.pluxml.org">Forum</a></li>
-							<li><a title="Ressources" href=https://ressources.pluxml.org#">Ressources</a></li>
+							<li><a title="Ressources" href=https://ressources.pluxml.org">Ressources</a></li>
 						<ul>
 					</div>
 					<div class="col sml-6 med-3">
