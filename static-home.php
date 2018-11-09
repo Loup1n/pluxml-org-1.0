@@ -116,8 +116,8 @@
 					<div class="col sml-6 med-2">
 						<strong>A propos de PluXml</strong>
 						<ul class="unstyled-list">
-							<li><a title="A propos" href="https://www.pluxml.org/a-propos-de-pluxml">A propos</a></li>
-							<li><a title="Nous soutenir" href="https://www.pluxml.org/static3/nous-soutenir">Nous soutenir</a></li>
+							<li><a title="A propos" href="https://www.pluxml.org/a-propos-de-pluxml.html">A propos</a></li>
+							<li><a title="Nous soutenir" href="https://www.pluxml.org/nous-soutenir.html">Nous soutenir</a></li>
 						</ul>
 					</div>
 					<div class="col sml-6 med-2">
