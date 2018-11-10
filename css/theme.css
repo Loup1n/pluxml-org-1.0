@@ -344,15 +344,17 @@ body {
 		position: relative !important;
 	}
 	.menu > li ul  li:hover {
-		background-color: #fff;
+		background-color: #333;
 	}
 	.menu > li ul  li:hover a{
 		text-decoration: underline;
 	}
-	.responsive-menu ul li.active a,
-	.responsive-menu ul li.active:hover {
-		background-color: #fff;
-		color: #000;
+	.responsive-menu ul li a,
+	.responsive-menu ul li:hover,
+	.responsive-menu ul li.active:hover,
+	.responsive-menu ul li.active a {
+		background-color: #333;
+		color: #f7f7f7;
 	}
 }
 .menu > li ul {
@@ -368,7 +370,7 @@ body {
 	display: block;
 	margin: 0;
 	padding: 0 1rem;
-	background-color: #fff;
+	background-color: #333;
 }
 .static.group.active,
 .static.menu.active a {
