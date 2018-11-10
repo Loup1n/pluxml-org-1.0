@@ -37,16 +37,16 @@
 
 		<?php include(dirname(__FILE__) . '/navigation.php'); ?>
 
-		<header class="header sticky">
+		<header class="header">
 			<div class="container">
 				<div class="grid">
-					<div class="col sml-6">
+					<div class="col sml-hide med-6 med-show">
 						<div class="logo">
 							<h1 class="no-margin heading-small"><?php $plxShow->mainTitle('link'); ?></h1>
 							<h2 class="h5 no-margin"><?php $plxShow->subTitle(); ?></h2>
 						</div>
 					</div>
-					<div class="col sml-6">
+					<div class="col sml-12 med-6">
 						<nav class="nav">
 							<div class="responsive-menu">
 								<label for="menu"></label>

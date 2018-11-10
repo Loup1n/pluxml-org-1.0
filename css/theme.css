@@ -53,14 +53,14 @@
 		padding: 0;
 	}
 	.responsive-menu label {
-		background-color: #fff;
-		color: #333;
+		background-color: #333;
+		color: #f7f7f7;
 		font-size: 3.5rem;
 		margin: .75rem;
 		text-align: right;
 	}
 	.responsive-menu label:before {
-		content: '\039e';
+		content: '\2261';
 	}
 }
 
@@ -372,11 +372,11 @@ body {
 }
 .static.group.active,
 .static.menu.active a {
-	color: #e42929;
+	color: #f7f7f7;
 }
 .static.group.noactive,
 .static.menu.noactive a {
-	color: #258fd6;
+	color: #f7f7f7;
 }
 .menu span::before {
 	content: '\25bc';
