@@ -42,10 +42,8 @@
 				<div class="grid">
 					<div class="col sml-hide med-6 med-show">
 						<div class="logo">
-							<a href="<?php $plxShow->racine() ?>blog">
-								<h1 class="no-margin heading-small"><?php $plxShow->mainTitle(); ?></h1>
-								<h2 class="h5 no-margin"><?php $plxShow->subTitle(); ?></h2>
-							</a>
+							<h1 class="no-margin heading-small"><a href="<?php $plxShow->racine() ?>blog"><?php $plxShow->mainTitle(); ?></a></h1>
+							<h2 class="h5 no-margin"><a href="<?php $plxShow->racine() ?>blog"><?php $plxShow->subTitle(); ?></a></h2>
 						</div>
 					</div>
 					<div class="col sml-12 med-6">
