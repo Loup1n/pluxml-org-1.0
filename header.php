@@ -42,8 +42,10 @@
 				<div class="grid">
 					<div class="col sml-hide med-6 med-show">
 						<div class="logo">
-							<h1 class="no-margin heading-small"><?php $plxShow->mainTitle('link'); ?></h1>
-							<h2 class="h5 no-margin"><?php $plxShow->subTitle(); ?></h2>
+							<a href="<?php $plxShow->racine() ?>blog">
+								<h1 class="no-margin heading-small"><?php $plxShow->mainTitle(); ?></h1>
+								<h2 class="h5 no-margin"><?php $plxShow->subTitle(); ?></h2>
+							</a>
 						</div>
 					</div>
 					<div class="col sml-12 med-6">
@@ -52,7 +54,7 @@
 								<label for="menu"></label>
 								<input type="checkbox" id="menu">
 								<ul class="menu">
-									<?php $plxShow->staticList($plxShow->getLang('HOME'),'<li class="#static_class #static_status" id="#static_id"><a href="#static_url" title="#static_name">#static_name</a></li>'); ?>
+									<?php $plxShow->staticList('','<li class="#static_class #static_status" id="#static_id"><a href="#static_url" title="#static_name">#static_name</a></li>'); ?>
 								</ul>
 							</div>
 						</nav>
