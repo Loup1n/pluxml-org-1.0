@@ -12,11 +12,11 @@
 						<h2 class="h5">Créez un site Web performant en toute simplicité</h2>
 						<img alt="Logo PluXml" src="<?php $plxShow->template(); ?>/img/plx-logo-bleu.png">
 						<p>
-							<a href="https://telechargements.pluxml.org/download.php" title="PluXml 5.6 - 368 Ko"  class="button blue">Télécharger</a>
+							<a href="https://www.pluxml.org/download/pluxml-latest.zip" title="PluXml 5.6 - 368 Ko"  class="button blue">Télécharger</a>
 							<a href="https://demo.pluxml.org/" title="Site de démonstration de PluXml" class="button blue">Démo</a>
 						</p>
 						<p>
-							<a href="https://telechargements.pluxml.org/changelog" class="h6">Changelog</a>
+							<a href="https://www.pluxml.org/download/changelog.txt" class="h6">Changelog</a>
 						</p>
 					</div>
 					<div class="col sml-12 med-6">
