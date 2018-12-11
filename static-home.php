@@ -12,7 +12,7 @@
 						<h2 class="h5">Créez un site Web performant en toute simplicité</h2>
 						<img alt="Logo PluXml" src="<?php $plxShow->template(); ?>/img/plx-logo-bleu.png">
 						<p>
-							<a href="https://www.pluxml.org/download/pluxml-latest.zip" title="PluXml 5.6 - 368 Ko"  class="button blue">Télécharger</a>
+							<a href="https://www.pluxml.org/download/pluxml-latest.zip" title="PluXml 5.7"  class="button blue">Télécharger</a>
 							<a href="https://demo.pluxml.org/" title="Site de démonstration de PluXml" class="button blue">Démo</a>
 						</p>
 						<p>
