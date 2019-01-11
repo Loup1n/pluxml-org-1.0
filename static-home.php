@@ -133,8 +133,8 @@
 						<ul class="unstyled-list">
 							<li><a title="Documentation" href="https://wiki.pluxml.org">Documentation</a></li>
 							<li><a title="Forum" href="https://forum.pluxml.org">Forum</a></li>
-							<li><a title="Ressources" href=https://ressources.pluxml.org">Ressources</a></li>
-						<ul>
+							<li><a title="Ressources" href="https://ressources.pluxml.org">Ressources</a></li>
+						</ul>
 					</div>
 					<div class="col sml-6 med-3">
 						<strong>Autour de PluXml</strong>
