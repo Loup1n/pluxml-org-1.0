@@ -314,6 +314,11 @@ body {
 	text-align: center;
 	font-size: 1.2rem;
 }
+
+.footer section {
+    padding: 2rem 0rem;
+}
+
 .footer p {
 	margin: 0;
 }
