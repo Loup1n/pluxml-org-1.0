@@ -103,13 +103,11 @@ body {
 .section-1 {
 	padding: 96px 0px;
 	background-color: #f7f7f7;
-	border-bottom: 1px solid #cdcdcd;
 }
 
-.section-2 {
+.section-2, .section-footer {
 	padding: 96px 0px;
 	background-color: #fff;
-	border-bottom: 1px solid #cdcdcd;
 }
 
 .repertory {
