@@ -90,6 +90,7 @@ body {
 .main {
 	background-color: #fff;
 	padding-bottom: 6rem;
+	border-bottom: 1px solid #ddd;
 }
 
 .img-border-1 {
@@ -308,7 +309,7 @@ body {
 /* ---------- Footer ---------- */
 
 .footer {
-	background: #fff;
+	background: #f7f7f7;
 	color: #666;
 	padding: 6rem 0;
 	text-align: center;
