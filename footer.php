@@ -37,7 +37,7 @@
 							<li><a title="PluCSS" href="https://plucss.pluxml.org/">PluCSS</a></li>
 							<li><a title="Pluxopolis" href="http://pluxopolis.net/">Pluxopolis</a></li>
 							<li><a title="Visual Wizard" href="https://visualwizard.pluxml.org/">Visual Wizard</a></li>
-							<ul>
+						</ul>
 					</div>
 				</div>
 			</section>
@@ -58,7 +58,7 @@
 				</ul>
 			</div>
 		</section>
-		
+
 	</footer>
 
 </body>
