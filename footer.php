@@ -31,7 +31,7 @@
 							<li><a title="Ressources" href="https://ressources.pluxml.org">Ressources</a></li>
 						</ul>
 					</div>
-					<div class="col sml-6 med-3">
+					<div class="col sml-6 med-2">
 						<strong>Autour de PluXml</strong>
 						<ul class="unstyled-list">
 							<li><a title="PluCSS" href="https://plucss.pluxml.org/">PluCSS</a></li>
