@@ -89,6 +89,7 @@ body {
 
 .main {
 	background-color: #fff;
+	padding-bottom: 6rem;
 }
 
 .img-border-1 {
@@ -104,14 +105,9 @@ body {
 	background-color: #f7f7f7;
 }
 
-.section-2, .section-footer {
+.section-2 {
 	padding: 96px 0px;
 	background-color: #fff;
-}
-
-.section-footer {
-  border-top: 1px solid #cdcdcd;
-	border-bottom: 1px solid #cdcdcd;
 }
 
 .repertory {
