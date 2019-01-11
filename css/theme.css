@@ -110,6 +110,11 @@ body {
 	background-color: #fff;
 }
 
+.section-footer {
+  border-top: 1px solid #cdcdcd;
+	border-bottom: 1px solid #cdcdcd;
+}
+
 .repertory {
 	margin-top: 4rem;
 }
