@@ -44,7 +44,7 @@
 
 			<section>
 				<p>
-					<?php $plxShow->mainTitle('link'); ?> - <?php $plxShow->subTitle(); ?> &copy; 2017
+					<?php $plxShow->mainTitle('link'); ?> - <?php $plxShow->subTitle(); ?> &copy; GNU General Public License
 				</p>
 				<p>
 					<?php $plxShow->lang('POWERED_BY') ?>&nbsp;<a href="http://www.pluxml.org" title="<?php $plxShow->lang('PLUXML_DESCRIPTION') ?>">PluXml</a>
