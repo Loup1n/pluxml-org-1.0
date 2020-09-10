@@ -12,7 +12,7 @@
 						<h2 class="h5">Créez un site Web performant en toute simplicité</h2>
 						<img alt="Logo PluXml" src="<?php $plxShow->template(); ?>/img/plx-logo-bleu.png">
 						<p>
-							<a href="https://www.pluxml.org/download/pluxml-latest.zip" title="PluXml 5.8"  class="button blue">Télécharger</a>
+							<a href="https://www.pluxml.org/download/pluxml-latest.zip" title="Télécharger PluXml"  class="button blue">Télécharger</a>
 							<a href="https://demo.pluxml.org/" title="Site de démonstration de PluXml" class="button blue">Démo</a>
 						</p>
 						<p>
@@ -84,7 +84,7 @@
 						<strong>Pré-requis</strong>
 						<ul class="unstyled-list">
 							<li>Serveur Apache, Nginx ou Lighttpd</li>
-							<li>PHP 5 ou supérieur</li>
+							<li>PHP 5.6 ou supérieur</li>
 							<li>Librairie GD pour la gestion des images</li>
 							<li>Fonction php d'envoi d'email autorisée (non obligatoire)</li>
 						</ul>
