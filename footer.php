@@ -59,6 +59,8 @@
 			</div>
 		</section>
 
+		<script src="https://medias.pluxml.org/navigation/nav.js"></script>
+
 	</footer>
 
 </body>
