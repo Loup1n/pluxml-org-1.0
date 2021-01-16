@@ -35,4 +35,4 @@
 
 <body id="top" class="page mode-<?php $plxShow->mode(true) ?>">
 
-  <?php include(dirname(__FILE__) . '/navigation.php'); ?>
+	<div id="plxnav" data-logo="blue"></div>
