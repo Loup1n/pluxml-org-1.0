@@ -31,8 +31,9 @@
 	<?php $plxShow->pluginsCss() ?>
 	<link rel="alternate" type="application/rss+xml" title="<?php $plxShow->lang('ARTICLES_RSS_FEEDS') ?>" href="<?php $plxShow->urlRewrite('feed.php?rss') ?>" />
 	<link rel="alternate" type="application/rss+xml" title="<?php $plxShow->lang('COMMENTS_RSS_FEEDS') ?>" href="<?php $plxShow->urlRewrite('feed.php?rss/commentaires') ?>" />
+	<script async src="https://medias.pluxml.org/navigation/nav.js"></script>
 </head>
 
 <body id="top" class="page mode-<?php $plxShow->mode(true) ?>">
 
-	<div id="plxnav" data-logo="blue"></div>
+<div id="plxnav" data-logo="blue" style="height: 43px; background-color: #333; border-bottom: 2px solid #cdcdcd;"></div>

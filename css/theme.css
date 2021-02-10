@@ -25,21 +25,20 @@
 .nav ul {
 	line-height: 3rem;
 }
+nav .menu li {
+	padding: 5px 15px;
+}
+nav .menu li:hover {
+	background-color: #2b2b2b;
+}
 .menu li:hover.logo {
 	background-color: #333;
 }
 .menu li {
-	padding: 5px 15px;
+	padding: 5px 5px;
 }
 .menu li {
 	margin-left: 0px;
-}
-.menu li:hover {
-	background-color: #2b2b2b;
-}
-.menu li a, .menu li a:hover,.nav li a.active {
-	color: #f7f7f7;
-	text-decoration: none;
 }
 @media (max-width: 767px) {
 	.nav {
@@ -52,15 +51,12 @@
 	.nav>.container {
 		padding: 0;
 	}
-	.responsive-menu label {
-		background-color: #333;
-		color: #f7f7f7;
-		font-size: 3.5rem;
-		margin: .75rem;
-		text-align: right;
+	.nav ul {
+		text-align: center;
 	}
-	.responsive-menu label:before {
-		content: '\2261';
+	.menu li {
+		font-size: 1.2rem;
+		padding: 5px 8px;
 	}
 }
 

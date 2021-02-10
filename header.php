@@ -31,11 +31,12 @@
 	<?php $plxShow->pluginsCss() ?>
 	<link rel="alternate" type="application/rss+xml" title="<?php $plxShow->lang('ARTICLES_RSS_FEEDS') ?>" href="<?php $plxShow->urlRewrite('feed.php?rss') ?>" />
 	<link rel="alternate" type="application/rss+xml" title="<?php $plxShow->lang('COMMENTS_RSS_FEEDS') ?>" href="<?php $plxShow->urlRewrite('feed.php?rss/commentaires') ?>" />
+	<script async src="https://medias.pluxml.org/navigation/nav.js"></script>
 </head>
 
 <body id="top" class="page mode-<?php $plxShow->mode(true) ?>">
 
-		<div id="plxnav" data-logo="blue"></div>
+		<div id="plxnav" data-logo="blue" style="height: 43px; background-color: #333; border-bottom: 2px solid #cdcdcd;"></div>
 
 		<header class="header">
 			<div class="container">
@@ -48,13 +49,9 @@
 					</div>
 					<div class="col sml-12 med-6">
 						<nav class="nav">
-							<div class="responsive-menu">
-								<label for="menu"></label>
-								<input type="checkbox" id="menu">
-								<ul class="menu">
-									<?php $plxShow->staticList('','<li class="#static_class #static_status" id="#static_id"><a href="#static_url" title="#static_name">#static_name</a></li>'); ?>
-								</ul>
-							</div>
+							<ul class="menu">
+								<?php $plxShow->staticList('','<li class="#static_class #static_status" id="#static_id"><a href="#static_url" title="#static_name">#static_name</a></li>'); ?>
+							</ul>
 						</nav>
 					</div>
 				</div>
