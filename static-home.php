@@ -84,7 +84,7 @@
 						<strong>Pré-requis</strong>
 						<ul class="unstyled-list">
 							<li>Serveur Apache, Nginx ou Lighttpd</li>
-							<li>PHP 5.6 ou supérieur</li>
+							<li>PHP 7.2 ou supérieur</li>
 							<li>Librairie GD pour la gestion des images</li>
 							<li>Fonction php d'envoi d'email autorisée (non obligatoire)</li>
 						</ul>
